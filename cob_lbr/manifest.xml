@@ -9,7 +9,7 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/cob_lbr</url>
 
-  <depend package="rosjava_jni"/>
+  <!--depend package="rosjava_jni"/-->
   <depend package="actionlib"/>
   <depend package="cob_srvs"/>
   <depend package="brics_actuator"/>
